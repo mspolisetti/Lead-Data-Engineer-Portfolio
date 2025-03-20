@@ -1,16 +1,15 @@
 # Senior Data Engineer Portfolio - Madhavi Polisetti
 
-Welcome! Within this repository, you'll find a catalog of my work in various data engineering/architect roles or passion projects, each of which covers my top skills and techniques.
-
-
-#
-### [IoT/Data Science/Engineering - Geofence dataset for Warehouse Location using Python, Google Maps API]()
+Welcome! Within this repository, you'll find a catalog of my work in various data engineering/architect roles and/or passion projects, each of which covers my top skills and techniques.
 
 #
-### [IoT/Data Science/Engineering - Geofences for Warehouse Locations Microsoft Buildings]()
+### [IoT Data / Data Science/Engineering- Failure Prediction for Array of Things Sensors]()
 
 #
-### [IoT/Data Science/Engineering - Geofences for Warehouse Locations Microsoft Buildings]()
+### [IoT/Data Science/Engineering - Geofence dataset for Warehouses  using Python, Google Maps API]()
+
+#
+### [IoT/Data Engineering - Geofences for Warehouses using Microsoft Buildings Dataset]()
 
 #
 ### [Datawarehousing - Snowflake Single Source of Truth Warehouse Location Database]()
