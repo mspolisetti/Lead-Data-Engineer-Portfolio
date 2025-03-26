@@ -11,7 +11,7 @@ The Array of things (AoT) project is an urban sensing project involving collabor
 The purpose of this project was to develop data-driven evaluation of the existing AoT Node health and explain the various factors affecting Node’s health.  In addition, our team developed a Machine Learning that can predict possible malfunctions based on historical data. 
 
 #
-### [Geofence dataset for Warehouses using Python, Google Maps API]()
+### [Geofence Warehouse using Python, Google Maps API]()
 
 #
 ### [Geofences for Warehouses using Microsoft Buildings Dataset](https://github.com/mspolisetti/build_geofences)
