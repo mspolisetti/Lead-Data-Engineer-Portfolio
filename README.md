@@ -1,6 +1,6 @@
-# Data Engineering Leader Portfolio - Madhavi Polisetti
+# Data Engineering Leader Portfolio   (In Progress)
 
-Welcome! Within this repository (In Progress), you'll find a catalog of my work in various data engineering/architect roles and/or passion projects, each of which covers my top skills and techniques.
+Welcome! Within this repository , you'll find a catalog of my work in various data engineering/architect roles and/or passion projects, each of which covers my top skills and techniques.
 
 # 
 ### IoT Data / Data Science/Engineering
