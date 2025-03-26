@@ -11,10 +11,13 @@ The Array of things (AoT) project is an urban sensing project involving collabor
 The purpose of this project was to develop data-driven evaluation of the existing AoT Node health and explain the various factors affecting Node’s health.  In addition, our team developed a Machine Learning that can predict possible malfunctions based on historical data. 
 
 #
-### [Geofence dataset for Warehouses using Python, Google Maps API](https://github.com/mspolisetti/build_geofences)
+### [Geofence dataset for Warehouses using Python, Google Maps API]()
 
 #
-## [Geofences for Warehouses using Microsoft Buildings Dataset]()
+## [Geofences for Warehouses using Microsoft Buildings Dataset](https://github.com/mspolisetti/build_geofences)
+Geofence Pipeline is a Python-based geospatial data processing project that computes dynamic geofence polygons from building footprint data.
+
+Leveraging Dask for scalable processing and Shapely for geometry operations, the pipeline calculates building areas, applies area-dependent offsets to generate buffered geofences, and integrates seamlessly with Snowflake for data staging and updates. This project showcases efficient handling of large datasets, advanced geospatial computation, and robust cloud data integration.
 
 #
 ## [Datawarehousing - Snowflake Single Source of Truth Warehouse Location Database]()
