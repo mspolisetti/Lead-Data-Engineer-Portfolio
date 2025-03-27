@@ -6,7 +6,7 @@ Welcome! Within this repository , you'll find a catalog of work I developed/led 
 #
 ## Datawarehousing
 
-### [Enterprise-Wide Datawarehouse for Real Estate Investment Management]()
+### [Datawarehousing - Enterprise-Wide Datawarehouse for Real Estate Investment Management]()
 #
 For this project, our team set-up data integration from various vendor sources into a centralized data warehouse for a Real Estate Investment Management firm.
 
@@ -24,7 +24,7 @@ Overall, warehousing data empowered the company to make smarter investment decis
 #
 
 
-### [AWS RedShift Datamart from Real Estate data]()
+### [Datawarehousing - AWS RedShift Datamart from Real Estate BI & Analytics]()
 #
 Real estate property/investment management leaderwhip wanted to track and analyze real-time occupancy trends, Property maintenance requests and turn/rehab patterns from their property management system data ( on MySQL) to identify top-performing properties and areas needing immediate attention. 
 
