@@ -10,15 +10,15 @@ Welcome! Within this repository , you'll find a catalog of work I developed/led 
 #
 For this project, our team set-up data integration from various vendor sources into a centralized data warehouse for a Real Estate Investment Management firm.
 
-Historical Analysis:
-By consolidating data over time, Operations/Asset Management teams can track performance trends, Occupancy rates, Renewal Conversions, Net Operating Income, and expenses. This historical perspective is critical for identifying long-term patterns and making informed strategic decisions.
+**Historical Analysis:**
+_By consolidating data over time, Operations/Asset Management teams can track performance trends, Occupancy rates, Renewal Conversions, Net Operating Income, and expenses. This historical perspective is critical for identifying long-term patterns and making informed strategic decisions.
+_
+**Investor Reporting:**
+_A centralized data repository enabled detailed, data-driven daily emailed reports and dashboards. Reports offered transparency and timely insights, enhancing communication with investors and building trust._
 
-Investor Reporting:
-A centralized data repository enabled detailed, data-driven daily emailed reports and dashboards. Reports offered transparency and timely insights, enhancing communication with investors and building trust.
-
-Advanced Analytics:
-Combining property management data with property asset data opens the door to a wide range of analytics: Predictive Modeling for Forecast of market trends, benchmark performance against comparable properties, and optimize operational efficiency.
-
+**Advanced Analytics:**
+_Combining property management data with property asset data opens the door to a wide range of analytics: Predictive Modeling for Forecast of market trends, benchmark performance against comparable properties, and optimize operational efficiency.
+_
 Overall, warehousing data empowered the company to make smarter investment decisions, manage risks effectively, and continuously improve portfolio performance.
 ![Datawarehousing Architecture](https://github.com/user-attachments/assets/7acdcdfa-3aba-41b2-b747-b9db7aa94442)
 #
