@@ -7,16 +7,18 @@ Welcome! Within this repository , you'll find a catalog of work I developed/led 
 ## Datawarehousing
 
 ### [Snowflake Enterprise-Wide Datawarehouse for Real Estate Investment Management]()
-
 ![Datawarehousing Architecture](https://github.com/user-attachments/assets/7acdcdfa-3aba-41b2-b747-b9db7aa94442)
 
+
+### [AWS RedShift Datamart from Real Estate data]()
+![image](https://github.com/user-attachments/assets/e98311d4-7fe5-4645-971d-bff99d52cc60)
+Real estate property/investment management firm wanting to track and analyze real-time occupancy trends, Property maintenance requests and turn/rehab patterns from their property management system (running on MySQL) to identify top-performing properties and areas needing immediate attention. By leveraging zero-ETL integration, our team replicated the data from MySQL to Amazon Redshift and build Datamarts for Power BI dashboards for property managers and executives in near real-time eliminating the hours-long delays often associated with traditional ETL processes.
 ### [Datawarehousing - Snowflake Single Source of Truth Warehouse Location Database]()
 
 #### [Location Data Pipeline]()
 ![image](https://github.com/user-attachments/assets/f6091d6e-56f5-47b6-952c-6d07747111c6)
 This pipeline refreshes the location database by integrating new warehouse locations and updating existing features within our location intelligence system. Data is sourced from various internal products, including XRS, ROADNET, LANDMARKS, SYLECTUS, MACRO MESSAGES, and additional sources in the future. Prior to updating the database, addresses are standardized using the SmartyStreets API. The pipeline is deployed on AWS EC2.
 
-### [AWS RedShift Datamart from Real Estate data]()
 
 ### 
 # 
