@@ -22,7 +22,7 @@ _Combining property management data with property asset data opens the door to a
 _
 Overall, warehousing data empowered the company to make smarter investment decisions, manage risks effectively, and continuously improve portfolio performance.
 ![Datawarehousing Architecture](https://github.com/user-attachments/assets/7acdcdfa-3aba-41b2-b747-b9db7aa94442)
-<small>
+</small>
 #
 
 
