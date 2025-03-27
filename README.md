@@ -11,7 +11,7 @@ Welcome! Within this repository , you'll find a catalog of work I developed/led 
 For this project, our team implemented a data integration solution, consolidating information from multiple vendor sources into a centralized data warehouse for a Real Estate Investment Management firm. This initiative achieved the following key objectives:
 #
 **Historical Analysis:**
-By aggregating data over time, operations and asset management teams are empowered to monitor performance trends—including occupancy rates, renewal conversions, net operating income, and expenses. This enduring perspective is essential for uncovering long-term patterns and making well-informed strategic decisions.
+By aggregating data over time, operations and asset management teams are empowered to monitor performance trends—including occupancy rates, renewal conversions, net operating income, and expenses. This perspective is essential for uncovering long-term patterns and making well-informed strategic decisions.
 #
 **Investor Reporting:**
 The unified data repository underpins the generation of detailed, data-driven daily reports and dashboards. These insights, delivered through automated email communications, enhance transparency, foster investor confidence, and strengthen stakeholder relationships.
