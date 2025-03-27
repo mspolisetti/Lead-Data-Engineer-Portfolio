@@ -22,6 +22,7 @@ A centralized data repository facilitates detailed, data-driven daily email repo
 Integrating property management data with property asset information unlocks extensive analytical capabilities. This includes predictive modeling to forecast market trends, benchmarking performance against comparable properties, and optimizing operational efficiency.
 </small>
 
+![Warehouse Architecture](https://github.com/user-attachments/assets/23683816-a0aa-4f2c-852a-94f56ada6eaf)
 
 #### [Datawarehousing - AWS RedShift Datamart from Real Estate BI & Analytics]()
 #
