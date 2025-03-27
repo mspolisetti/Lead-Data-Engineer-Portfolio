@@ -2,6 +2,23 @@
 
 Welcome! Within this repository , you'll find a catalog of work I developed/led in various data engineering/architect roles and/or passion projects, each of which covers my top skills and techniques.
 
+
+#
+## Datawarehousing
+
+### [Snowflake Enterprise-Wide Datawarehouse for Real Estate Investment Management]()
+
+![Datawarehousing Architecture](https://github.com/user-attachments/assets/7acdcdfa-3aba-41b2-b747-b9db7aa94442)
+
+### [Datawarehousing - Snowflake Single Source of Truth Warehouse Location Database]()
+
+#### [Location Data Pipeline]()
+![image](https://github.com/user-attachments/assets/f6091d6e-56f5-47b6-952c-6d07747111c6)
+This pipeline refreshes the location database by integrating new warehouse locations and updating existing features within our location intelligence system. Data is sourced from various internal products, including XRS, ROADNET, LANDMARKS, SYLECTUS, MACRO MESSAGES, and additional sources in the future. Prior to updating the database, addresses are standardized using the SmartyStreets API. The pipeline is deployed on AWS EC2.
+
+### [AWS RedShift Datamart from Real Estate data]()
+
+### 
 # 
 ### IoT Data / Data Science/Engineering
 
@@ -20,18 +37,7 @@ Geofence Pipeline is a Python-based geospatial data processing project that comp
 
 Leveraging Dask for scalable processing and Shapely for geometry operations, the pipeline calculates building areas, applies area-dependent offsets to generate buffered geofences, and integrates seamlessly with Snowflake for data staging and updates. This project showcases efficient handling of large datasets, advanced geospatial computation, and robust cloud data integration.
 
-#
-## [Datawarehousing - Snowflake Single Source of Truth Warehouse Location Database]()
 
-#
-### Datawarehousing 
-
-## [Snowflake Enterprise-Wide Datawarehouse for Real Estate Investment Management]()
-
-#
-### [AWS RedShift Datamart from Real Estate data]()
-
-#
 ## DataBricks/ Azure
 ### [ML model to predict Rent Growth of RealEstate markets in the upcoming year]()
 
