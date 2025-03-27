@@ -11,6 +11,7 @@ Welcome! Within this repository , you'll find a catalog of work I developed/led 
 For this project, our team set-up data integration from various vendor sources into a centralized data warehouse for a Real Estate Investment Management firm. Following goals were accomplished.
 
 <small>
+
 **Historical Analysis:**  
 By consolidating data over time, operations and asset management teams can monitor performance trends—including occupancy rates, renewal conversions, net operating income, and expenses. This historical perspective is crucial for identifying long-term patterns and making informed strategic decisions.
 
