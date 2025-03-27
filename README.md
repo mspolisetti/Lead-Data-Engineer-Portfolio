@@ -9,16 +9,16 @@ Welcome! Within this repository , you'll find a catalog of work I developed/led 
 #### [Datawarehousing - Enterprise-Wide Datawarehouse for Real Estate Investment Management]()
 #
 For this project, our team implemented a data integration solution, consolidating information from multiple vendor sources into a centralized data warehouse for a Real Estate Investment Management firm. This initiative achieved the following key objectives:
-
-Historical Analysis:
+#
+**Historical Analysis:**
 By aggregating data over time, operations and asset management teams are empowered to monitor performance trends—including occupancy rates, renewal conversions, net operating income, and expenses. This enduring perspective is essential for uncovering long-term patterns and making well-informed strategic decisions.
-
-Investor Reporting:
+#
+**Investor Reporting:**
 The unified data repository underpins the generation of detailed, data-driven daily reports and dashboards. These insights, delivered through automated email communications, enhance transparency, foster investor confidence, and strengthen stakeholder relationships.
-
-Advanced Analytics:
+#
+**Advanced Analytics:**
 Integrating property management data with comprehensive property asset information unlocks robust analytical capabilities. This integration facilitates predictive modeling for forecasting market trends, benchmarking performance against comparable properties, and optimizing overall operational efficiency.
-
+#
 ![Warehouse Architecture](https://github.com/user-attachments/assets/23683816-a0aa-4f2c-852a-94f56ada6eaf)
 
 #### [Datawarehousing - AWS RedShift Datamart from Real Estate BI & Analytics]()
