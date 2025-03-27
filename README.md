@@ -7,7 +7,8 @@ Welcome! Within this repository , you'll find a catalog of work I developed/led 
 ## Datawarehousing
 
 ### [Enterprise-Wide Datawarehouse for Real Estate Investment Management]()
-# Integrated data from various vendor sources into a centralized data warehouse for a Real Estate Investment Management firm.
+#
+For this project, our team set-up data integration from various vendor sources into a centralized data warehouse for a Real Estate Investment Management firm.
 
 Historical Analysis:
 By consolidating data over time, Operations/Asset Management teams can track performance trends, Occupancy rates, Renewal Conversions, Net Operating Income, and expenses. This historical perspective is critical for identifying long-term patterns and making informed strategic decisions.
