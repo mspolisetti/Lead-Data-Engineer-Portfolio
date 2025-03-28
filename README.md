@@ -27,6 +27,9 @@ Our team developed a robust BI/Analytics solutionâ€”centered around a datamartâ€
 
 Leveraging a zero-ETL integration approach, we seamlessly replicated data from MySQL into Amazon Redshift and built dedicated datamarts to power near real-time Power BI dashboards for property managers and executives. This innovative solution eliminates the delays typical of traditional ETL processes, delivering timely insights that drive informed decision-making.
 #
+#### [Bi/Analytics - Real Estate Investment Management]()
+#
+
 ![image](https://github.com/user-attachments/assets/e98311d4-7fe5-4645-971d-bff99d52cc60)
 
 #### [Datawarehousing - Snowflake Single Source of Truth Warehouse Location Database]()
