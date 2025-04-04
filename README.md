@@ -1,7 +1,6 @@
-# Data Engineering Leader Portfolio   (In Progress)
+# Data Engineering Portfolio   (In Progress)
 
 Welcome! Within this repository , you'll find a catalog of work I developed/led in various data engineering/architect roles and/or passion projects, each of which covers my top skills and techniques.
-
 
 #
 # Datawarehousing
