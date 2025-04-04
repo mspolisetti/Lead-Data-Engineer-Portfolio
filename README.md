@@ -17,7 +17,7 @@ By aggregating data over time, operations and asset management teams are empower
 The unified data repository underpins the generation of detailed, data-driven daily reports and dashboards. These insights, delivered through automated email communications, enhance transparency, foster investor confidence, and strengthen stakeholder relationships.
 #
 **Advanced Analytics:**
-Integrating property management data with comprehensive property asset information unlocks robust analytical capabilities. This integration facilitates predictive modeling for forecasting market trends, benchmarking performance against comparable properties, and optimizing overall operational efficiency.
+Integrating property management data with competitor data unlocks robust analytical capabilities. This integration facilitates  forecasting market trends, benchmarking performance against comparable properties, and optimizing overall operational efficiency.
 #
 ![Warehouse Architecture](https://github.com/user-attachments/assets/23683816-a0aa-4f2c-852a-94f56ada6eaf)
 
