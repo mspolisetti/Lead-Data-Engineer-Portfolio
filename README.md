@@ -29,9 +29,9 @@ Leveraging a zero-ETL integration approach, we seamlessly replicated data from M
 #
 ![image](https://github.com/user-attachments/assets/e98311d4-7fe5-4645-971d-bff99d52cc60)
 #
-#### [Bi/Analytics - Real Estate Investment Management]()
+#### [BI/Analytics - Real Estate Investment Management](https://github.com/mspolisetti/Analytics)
 #
-
+Our team developed a suite of Power BI dashboards that deliver daily insights into occupancy trends, leasing performance, financial metrics, asset health, and online reputation management—enabling data-driven decisions and operational efficiency across the portfolio.
 
 
 #### [Datawarehousing - Snowflake Single Source of Truth Warehouse Location Database]()
