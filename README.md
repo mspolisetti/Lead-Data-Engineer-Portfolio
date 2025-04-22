@@ -19,7 +19,7 @@ The unified data repository underpins the generation of detailed, data-driven da
 **Advanced Analytics:**
 Integrating property management data with competitor data unlocks robust analytical capabilities. This integration facilitates  forecasting market trends, benchmarking performance against comparable properties, and optimizing overall operational efficiency.
 #
-![Warehouse Architecture](https://github.com/user-attachments/assets/a7272b38-0853-41bb-9eb3-c26936661372)
+![Warehouse Architecture](https://github.com/user-attachments/assets/7bef0340-44de-4dc1-a0d2-462b13b82e1e)
 
 #### [Datawarehousing - AWS RedShift Datamart from Real Estate BI & Analytics]()
 #
