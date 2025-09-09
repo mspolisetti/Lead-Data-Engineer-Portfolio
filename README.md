@@ -22,7 +22,7 @@ By integrating property management data with competitor data, we unlocked powerf
 
 #### [Datawarehousing - AWS RedShift Datamart from Real Estate BI & Analytics]()
 #
-Our team built a BI and analytics solution, centered around a datamart, for a single-family real estate property and investment management firm. The system helps leadership track real-time occupancy, maintenance requests, and renovation timelines. Since the data comes directly from the firm’s MySQL-based property management system, the dashboards give management the ability to quickly spot top-performing properties and address problem areas within the property management team.
+Our team built a BI and analytics solution, centered around a datamart, for a single-family real estate property and investment management firm. The system helps leadership track daily occupancy, maintenance requests, and renovation timelines. Since the data comes directly from the firm’s properitary MySQL-based property management system, the dashboards give management the ability to quickly spot top-performing properties and address problem areas within the property management team.
 
 We used a zero-ETL integration approach to replicate data from MySQL into Amazon Redshift and then created dedicated datamarts to power near real-time Power BI dashboards for property managers and executives. By avoiding traditional ETL delays, this solution delivers fast, reliable insights that support better, quicker decision-making.
 #
