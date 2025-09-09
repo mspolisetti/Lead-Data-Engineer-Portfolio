@@ -55,7 +55,7 @@ This pipeline refreshes the location database by integrating new warehouse locat
 #### [Failure Prediction for Array of Things Sensors](https://github.com/mspolisetti/AoTNodeHealthAnalysis)
 The Array of things (AoT) project is an urban sensing project involving collaboration of the University of Chicago, Argonne National Laboratory, and the School of the Art Institute of Chicago. As part of the new Smart Cities Initiative announced in 2015, AoT provides real-time, location-based data about urban environment, infrastructure and activity to researchers and the public. 
 
-The purpose of this project was to develop data-driven evaluation of the existing AoT Node health and explain the various factors affecting Node’s health.  In addition, our team developed a Machine Learning that can predict possible malfunctions based on historical data. 
+The purpose of this project was to develop data-driven evaluation of the Node health and explain the various factors affecting Node’s health.  In addition, our team developed a Machine Learning model that can predict possible malfunctions based on historical data. 
 
 #
 #### [Geofence Warehouse using Python, Google Maps API](https://github.com/mspolisetti/geofence)
